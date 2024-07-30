@@ -1,4 +1,4 @@
-# DMA-CFW-Guide
+# DMA-配置空间以及TLP指南
 The following guide details instructions on the creation of modified DMA (attack) Firmware based on [pcileech-fpga](https://github.com/ufrisk/pcileech-fpga) **version 4.13**. <br />
 
 
@@ -9,14 +9,8 @@ If you know what you're doing check out extra [Vivado Customisations](https://gi
 > * Easier method of cloning via ['shadow' config space](https://github.com/Silverr12/DMA-CFW-Guide/blob/main/Shadow_cfg_space.md)
 
 
-#### 📖Why make this guide?
-I don't like that there are people intentionally being vague, keeping information secret, or even misleading people to drive
-them away from being able to make their own firmware so that they end up buying 100s of dollars worth of custom firmware from
-other providers with no way to guarantee quality.
 
-#### Device Compatibility
-This guide uses a squirrel DMA card. Instead of using the Squirrel folder for the project, use the corresponding folder for your DMA card which will be found in the pcileech-fpga-master folder
-
+#### 设备支持
 - 35T: Squirrel
 
 - 75T: EnigmaX1
@@ -24,7 +18,7 @@ This guide uses a squirrel DMA card. Instead of using the Squirrel folder for th
 - 100T: ZDMA
 
 
-#### 🔎 Definitions
+#### 🔎 缩写定义
 __ACs__
 : Anti Cheats
 
