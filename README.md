@@ -40,8 +40,8 @@ __Donor card__
 __FPGA__
 : Field Programmable Gate Array
 
-### ⚠️ Disclaimer
-- (___Don't___ expect this to work for Vanguard, Faceit, or ESEA in the guide's current state. <br />
+### ⚠️ 注意
+- 此方法不适用于VGA反作弊以及faceit
 
 - This guide does ___not___ detail how to set up software or change computer settings to accommodate DMA cards)
 
